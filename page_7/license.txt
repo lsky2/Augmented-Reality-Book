@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 7
+* source:	https://sketchfab.com/3d-models/page-7-d8f964f0fd0d4344ba34bf35bf148ac0
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 7" (https://sketchfab.com/3d-models/page-7-d8f964f0fd0d4344ba34bf35bf148ac0) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
