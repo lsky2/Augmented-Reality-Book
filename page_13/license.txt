@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 13
+* source:	https://sketchfab.com/3d-models/page-13-5f9aa2b7e8cd4510bbbba75552474fc2
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 13" (https://sketchfab.com/3d-models/page-13-5f9aa2b7e8cd4510bbbba75552474fc2) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
