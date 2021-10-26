@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 16
+* source:	https://sketchfab.com/3d-models/page-16-8e4634a604e54556908a4eb89876d410
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 16" (https://sketchfab.com/3d-models/page-16-8e4634a604e54556908a4eb89876d410) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
