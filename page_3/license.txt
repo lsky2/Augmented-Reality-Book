@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 3 - moon
+* source:	https://sketchfab.com/3d-models/page-3-moon-7425636ad52a4c3196228b5b204a9e4a
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 3 - moon" (https://sketchfab.com/3d-models/page-3-moon-7425636ad52a4c3196228b5b204a9e4a) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
