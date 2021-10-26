@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 15
+* source:	https://sketchfab.com/3d-models/page-15-1334dea1b9ae4a80876590b074e64d26
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 15" (https://sketchfab.com/3d-models/page-15-1334dea1b9ae4a80876590b074e64d26) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
