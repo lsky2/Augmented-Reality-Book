@@ -1,0 +1,11 @@
+Model Information:
+* title:	Page 2
+* source:	https://sketchfab.com/3d-models/page-2-533c820da4ee488eb3bd66831dc2e773
+* author:	lsky (https://sketchfab.com/lsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Page 2" (https://sketchfab.com/3d-models/page-2-533c820da4ee488eb3bd66831dc2e773) by lsky (https://sketchfab.com/lsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
